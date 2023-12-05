@@ -12,15 +12,15 @@ With form, you can collect, verify and submit data.
 ::: code-group
 
 ```bash [pnpm]
-pnpm add @ikun-ui/from
+pnpm add @ikun-ui/form
 ```
 
 ```bash [yarn]
-yarn add @ikun-ui/from
+yarn add @ikun-ui/form
 ```
 
 ```bash [npm]
-npm install @ikun-ui/from
+npm install @ikun-ui/form
 ```
 
 :::
